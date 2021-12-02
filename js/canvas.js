@@ -41,7 +41,7 @@ class NumberElement {
   }
   
   spawn() {
-    this.value = this.config.values[Math.floor(random(0, 5))]
+    this.value = this.config.values[Math.floor(random(0, 2))]
     this.size = random(this.config.size)
     this.speed = random(this.config.speed)
     this.x = random(this.config.x)
