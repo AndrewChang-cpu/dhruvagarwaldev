@@ -49,8 +49,8 @@ class NumberElement {
     
     this.viewportOffset = this.config.size[1] + 20
     
-    if(Math.abs(this.speed) < .5) {
-      this.speed += (this.speed < 0 ? -.5 : .5)
+    if(Math.abs(this.speed) < .167) {
+      this.speed += (this.speed < 0 ? -.167 : .167)
     }
     
     this.setSpawnPosition()
