@@ -122,7 +122,7 @@ figure {
   width: 300px;
   position: fixed;
   z-index: 1001;
-    background-color: #f9bf3f;
+    background-color: #9ffd33;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s; }
@@ -135,7 +135,7 @@ figure {
       -o-transform: translateX(-300px);
       transform: translateX(-300px);
       padding-top: 4em;
-	  background-color: #f9bf3f;
+	  background-color: #9ffd33;
         height: auto;
       } 
       .resume-content img {
@@ -426,7 +426,7 @@ body.offcanvas {
     -o-transform: translateX(0);
     transform: translateX(0);
     width: 300px;
-    background-color: #f9bf3f;
+    background-color: #9ffd33;
     z-index: 999;
     position: fixed; }
   body.offcanvas #colorlib-main, body.offcanvas .colorlib-nav-toggle {
@@ -538,7 +538,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .hire {
   padding: 2em;
-  background: #f9bf3f; }
+  background: #9ffd33; }
   .hire h2 {
     line-height: 1.5; }
   .hire .btn-hire {
@@ -682,7 +682,7 @@ font-family: "Montserrat", Georgia, serif;}
   position: absolute;
   display: block;
   width: 4px;
-  background: #f9bf3f;
+  background: #9ffd33;
   top: 20px;
   bottom: 20px;
   margin-left: 29px; }
@@ -718,7 +718,7 @@ font-family: "Montserrat", Georgia, serif;}
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
     background: #ec5453; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
-    background: #f9bf3f; }
+    background: #9ffd33; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-4 {
     background: #a84cb8; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-5 {
@@ -731,7 +731,7 @@ font-family: "Montserrat", Georgia, serif;}
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label {
   position: relative;
-  background: #f9bf3f;
+  background: #9ffd33;
   padding: 1.5em;
   margin-left: 60px;
   -webkit-background-clip: padding-box;
@@ -794,9 +794,9 @@ font-family: "Montserrat", Georgia, serif;}
     .services.color-2 .icon2 i {
       color: #ec5453; }
   .services.color-3 {
-    border-bottom: 2px solid #f9bf3f; }
+    border-bottom: 2px solid #9ffd33; }
     .services.color-3 .icon2 i {
-      color: #f9bf3f; }
+      color: #9ffd33; }
   .services.color-4 {
     border-bottom: 2px solid #a84cb8; }
     .services.color-4 .icon2 i {
@@ -866,11 +866,11 @@ font-family: "Montserrat", Georgia, serif;}
     .services.color-2 .icon:after {
       border-color: #ec5453 transparent transparent transparent; }
   .services.color-3 .icon {
-    background: #f9bf3f; }
+    background: #9ffd33; }
     .services.color-3 .icon:before {
-      border-color: transparent transparent #f9bf3f transparent; }
+      border-color: transparent transparent #9ffd33 transparent; }
     .services.color-3 .icon:after {
-      border-color: #f9bf3f transparent transparent transparent; }
+      border-color: #9ffd33 transparent transparent transparent; }
   .services.color-4 .icon {
     background: #a84cb8; }
     .services.color-4 .icon:before {
@@ -949,11 +949,11 @@ padding-top: 2px;}
 
 
   .progress-bar.color-3 {
-    background: #f9bf3f; }
+    background: #9ffd33; }
     .progress-bar.color-3:after {
-      background: #f9bf3f; }
+      background: #9ffd33; }
     .progress-bar.color-3 span {
-      color: #f9bf3f; }
+      color: #9ffd33; }
   .progress-bar.color-4 {
     background: #a84cb8; }
     .progress-bar.color-4:after {
@@ -979,11 +979,11 @@ padding-top: 2px;}
     .progress-bar.color-7 span {
       color: #ec5453; }
   .progress-bar.color-8 {
-    background: #f9bf3f; }
+    background: #9ffd33; }
     .progress-bar.color-8:after {
-      background: #f9bf3f; }
+      background: #9ffd33; }
     .progress-bar.color-8 span {
-      color: #f9bf3f; }
+      color: #9ffd33; }
   .progress-bar.color-9 {
     background: #a84cb8; }
     .progress-bar.color-9:after {
@@ -1625,7 +1625,7 @@ ul { list-style-type: none; }
     padding-left: 20px;
     padding-right: 20px;
   margin: 30px auto 20px;
-  background: #f9bf3f;
+  background: #9ffd33;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
@@ -1680,7 +1680,7 @@ ul { list-style-type: none; }
 
 .submenu {
   display: none;
-  background: #f9bf3f;
+  background: #9ffd33;
   font-size: 14px;
 }
 
