@@ -1,5 +1,5 @@
 Dhruv's Portfolio Website
 
-Used template- uses bootstrap mainly
+Uses bootstrap mainly
 
 Thanks!
