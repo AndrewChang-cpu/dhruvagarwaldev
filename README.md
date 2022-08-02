@@ -1,5 +1,3 @@
-Dhruv's Portfolio Website
+Dhruv's Portfolio Website: dhruvagarwal.dev
 
 Uses bootstrap mainly
-
-Thanks!
